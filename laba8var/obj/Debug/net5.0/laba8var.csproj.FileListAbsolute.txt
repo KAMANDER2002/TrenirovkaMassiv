@@ -1,0 +1,16 @@
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.exe
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.deps.json
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.runtimeconfig.json
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.runtimeconfig.dev.json
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.dll
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\ref\laba8var.dll
+C:\Users\borze\source\repos\laba8var\laba8var\bin\Debug\net5.0\laba8var.pdb
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.csproj.AssemblyReference.cache
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.AssemblyInfoInputs.cache
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.AssemblyInfo.cs
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.csproj.CoreCompileInputs.cache
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.dll
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\ref\laba8var.dll
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.pdb
+C:\Users\borze\source\repos\laba8var\laba8var\obj\Debug\net5.0\laba8var.genruntimeconfig.cache
